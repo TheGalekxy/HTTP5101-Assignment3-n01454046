@@ -7,6 +7,10 @@ namespace HTTP5101_Assignment3_n01454046.Models
 {
     public class Teacher
     {
+        // USING THE TEMPLATE FROM THE BLOGPROJECT IN-CLASS EXAMPLE BY CHRISTINE BITTLE
+        // Information taken from Modules & Lecture Materials.
+        // Accessed multiple times Nov 10th - present
+
         // The Following properties define a teacher
         public int TeacherId;
         public string TeacherFname;
